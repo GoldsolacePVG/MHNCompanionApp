@@ -1,3 +1,10 @@
 <resources>
+    <!-- App General -->
     <string name="app_name">MHN Companion App</string>
+    <string name="app_desc">MHN Companion app is an application that contains all the information
+    of the game Monster Hunter Now, including all the items, armors, weapons, etc.</string>
+
+    <!-- Welcome Page -->
+    <string name="welcome_page_title">Welcome to MHN Companion App!</string>
+    <string name="welcome_page_desc">You can visit the parts below</string>
 </resources>
